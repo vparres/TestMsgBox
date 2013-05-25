@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestMsgBox", "TestMsgBox\TestMsgBox.vbproj", "{6EAF4A82-D05E-4FE6-9597-8DC8FB0DB95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EAF4A82-D05E-4FE6-9597-8DC8FB0DB95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAF4A82-D05E-4FE6-9597-8DC8FB0DB95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAF4A82-D05E-4FE6-9597-8DC8FB0DB95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAF4A82-D05E-4FE6-9597-8DC8FB0DB95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
